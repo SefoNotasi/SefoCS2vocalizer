@@ -1,0 +1,25 @@
+﻿"lang"
+{
+	"Language"	"English"
+	"Tokens"
+	{
+		// ---------------------------------------------------------------------------------------------
+		// platform_english.txt
+
+		// Radial 2
+		"Decrease_Sound"			"Sound -"
+		"Increase_Sound"			"Sound +"
+		"Toggle_Sound"				"Sound"
+		"Decrease_Radar_Scale"		"Radar scale -"
+		"Increase_Radar_Scale"		"Radar scale +"
+		"Toggle_Radar_Centered"		"Radar centered"
+		"Toggle_Radar_Rotate"		"Radar rotate"
+		"Toggle_Team_Counter"		"Team counter"
+
+		// Radial 3
+		"Toggle_Telemetry"			"Telemetry"
+		"Toggle_FPS"				"FPS"
+		"Switch_Crosshair_Style"	"Crosshair style"
+		"Switch_Crosshair_Color"	"Crosshair color"
+	}
+}
